@@ -71,7 +71,7 @@ phase3-ecommerce-churn/
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/<your-username>/phase3-ecommerce-churn
+git clone https://github.com/moN00R/E-commerce-churn.git
 cd phase3-ecommerce-churn
 pip install -r requirements.txt
 
